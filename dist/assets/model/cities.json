@@ -1,0 +1,165 @@
+{
+    "cities": [ 
+        {
+            "city_name" : "Ghaziabad",
+            "city_aqi" : "283 PM2.5",
+            "city_cigg" : 12
+        }, 
+        {
+            "city_name" : "Noida",
+            "city_aqi" : "213 PM2.5",
+            "city_cigg" : 10
+        },
+        {
+            "city_name" : "Delhi",
+            "city_aqi" : "235 PM2.5",
+            "city_cigg" : 10 
+        },
+        {
+            "city_name" : "Lucknow",
+            "city_aqi" : "158 PM2.5",
+            "city_cigg" : 7 
+        },
+        {
+            "city_name" : "Gurugram",
+            "city_aqi" : "254 PM2.5",
+            "city_cigg" : 11 
+        },
+        {
+            "city_name" : "Faridabad",
+            "city_aqi" : "220 PM2.5",
+            "city_cigg" : 10 
+        }, 
+        {
+            "city_name" : "Varanasi",
+            "city_aqi" : "122 PM2.5",
+            "city_cigg" : 5 
+        },
+        {
+            "city_name" : "Kanpur",
+            "city_aqi" : "268 PM2.5",
+            "city_cigg" : 12 
+        }, 
+        {
+            "city_name" : "Patna",
+            "city_aqi" : "133 PM2.5",
+            "city_cigg" : 6 
+        },
+        {
+            "city_name" : "Muzaffarpur",
+            "city_aqi" : "114 PM2.5",
+            "city_cigg" : 5 
+        },
+        {
+            "city_name" : "Mandi Gobindgarh",
+            "city_aqi" : "75 PM2.5",
+            "city_cigg" : 3 
+        },
+        {
+            "city_name" : "Ludhiana",
+            "city_aqi" : "69 PM2.5",
+            "city_cigg" : 3 
+        },
+        {
+            "city_name" : "Jodhpur",
+            "city_aqi" : "126 PM2.5",
+            "city_cigg" : 6 
+        },
+        {
+            "city_name" : "Amritsar",
+            "city_aqi" : "61 PM2.5",
+            "city_cigg" : 3 
+        },
+        {
+            "city_name" : "Ahmedabad",
+            "city_aqi" : "91 PM2.5",
+            "city_cigg" : 4 
+        },
+        {
+            "city_name" : "Panchkula",
+            "city_aqi" : "41 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Gaya",
+            "city_aqi" : "70 PM2.5",
+            "city_cigg" : 3 
+        },
+        {
+            "city_name" : "Nagpur",
+            "city_aqi" : "27 PM2.5",
+            "city_cigg" : 1 
+        },
+        {
+            "city_name" : "Vijaywada",
+            "city_aqi" : "32 PM2.5",
+            "city_cigg" : 1 
+        },
+        {
+            "city_name" : "Chandrapur",
+            "city_aqi" : "43 PM2.5",
+            "city_cigg" : 1 
+        },
+        {
+            "city_name" : "Chennai",
+            "city_aqi" : "58 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Bhiwadi",
+            "city_aqi" : "103 PM2.5",
+            "city_cigg" : 4 
+        },
+        {
+            "city_name" : "Mumbai",
+            "city_aqi" : "44 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Nashik",
+            "city_aqi" : "51 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Thane",
+            "city_aqi" : "41 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Aurangabad",
+            "city_aqi" : "48 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Hyderabad",
+            "city_aqi" : "56 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Visakhapatnam",
+            "city_aqi" : "51 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Rajamahandevaram",
+            "city_aqi" : "44 PM2.5",
+            "city_cigg" : 2 
+        },
+        {
+            "city_name" : "Chittoor",
+            "city_aqi" : "11 PM2.5",
+            "city_cigg" : 0 
+        },
+        {
+            "city_name" : "Bangalore",
+            "city_aqi" : "23 PM2.5",
+            "city_cigg" : 1 
+        },
+        {
+            "city_name" : "Trivandrum",
+            "city_aqi" : "53 PM2.5",
+            "city_cigg" : 2 
+        }
+        
+    ]
+}

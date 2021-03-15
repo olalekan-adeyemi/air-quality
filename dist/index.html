@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Air Quality - Air pollution level</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+    <div class="wrapper">
+
+        <header></header>
+
+        <main>
+            <section class="hero">
+
+                <div class="pollution">
+                    <h1 class="pollution-title">Air quality in your city</h1>
+                    <p class="pollution-description">Click on your city to find out how many cigarettes you have effectively smoked because of last week's pollution.</p>
+                </div>
+
+                <div class="form-wrapper">
+                    <form action="">
+
+                        <!--<div class="item-information">
+                            <h3>Check Air Quality & Particulate Matter (PM 2.5)</h3>
+                        </div>-->
+
+                        <div class="city-list">
+                            <select name="cityName" id="cityName">
+                                <option value="" disabled selected >Select your city</option>
+                            </select>
+
+                            <label>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                            </label>
+
+                        </div>
+
+                    </form>
+                </div>
+                
+            </section>
+
+            <section class="result">
+
+                <div class="result-details">
+
+                    <h3>Air pollution level for <span class="city-value"></span></h3>
+                    <div class="air-quality">
+                       <p>
+                           <span class="aqi-label">Air quality</span><br>
+                           <span class="aqi-value">283 PM2.5</span> 
+                        </p>
+                    </div>
+
+                    <div class="pm-value">
+                        <p><span class="pm-label">Cigarettes count</span></p>
+                        <div class="pm-value-init">
+                            <div class="pm-wrapper-image">
+                               <img class="cigarette" src="../dist/assets/img/ciggrette_icon.png">
+                            </div>
+    
+                            <div class="pm-wrapper-value">
+                                <span class="cigg-value">10</span>
+                            </div>
+                        </div>
+                    
+                    </div>
+
+                </div>
+            </section>
+
+        </main>
+
+        <footer></footer>
+
+    </div>
+    
+    <script src="assets/js/bundle.js"></script>
+</body>
+</html>

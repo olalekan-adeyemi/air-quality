@@ -1,0 +1,22 @@
+{
+  "name": "air-quality",
+  "version": "1.0.0",
+  "description": "Click on your city to find out how many cigarettes you have effectively smoked because of last week's pollution.",
+  "main": "index.js",
+  "scripts": {
+    "babel": "node_modules/.bin/babel src/index.js -w -o dist/assets/js/bundle.js",
+    "webpack" : "node_modules/.bin/webpack"
+  },
+  "keywords": [
+    "air-quality-bbc-test"
+  ],
+  "author": "Olalekan Adeyemi Lawrence",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "webpack": "^5.25.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
